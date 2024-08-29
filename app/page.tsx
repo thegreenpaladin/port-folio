@@ -4,7 +4,7 @@ const HelloPage: React.FC = () => {
   return (
     <div>
       {/* Your landing page content goes here */}
-      <h1>HELLO!</h1>
+      <h1>Salaam!</h1>
     </div>
   );
 };
