@@ -1,12 +1,9 @@
 import React from "react";
 
-const HelloPage: React.FC = () => {
-  return (
-    <div>
-      {/* Your landing page content goes here */}
-      <h1>Salaam!</h1>
-    </div>
-  );
+type Props = {};
+
+const HomePage = (props: Props) => {
+  return <div>HomePage</div>;
 };
 
-export default HelloPage;
+export default HomePage;

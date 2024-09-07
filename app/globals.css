@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+nav .nav-title {
+  font-size: 1.5em;
+  flex: 1;
+}
+
+nav .nav-links {
+  list-style: none; /* Remove bullet points */
+  margin: 5px;
+  padding: 0;
+  display: flex;
+}
+
+nav .nav-links li {
+  margin-right: 10px; /* Add some spacing between list items */
+}
