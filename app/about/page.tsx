@@ -6,9 +6,12 @@ type Props = {};
 const AboutPage = (props: Props) => {
   return (
     <div>
-      <h1>Hello, I'm Ahsan!</h1>
+      <h1>About me</h1>
       <p>
-        I'm a software engineer and a web developer. I'm passionate about
+        I'm primarily a Software Engineer, but deep down, there is an artist inside of me.
+      </p>
+      <p>
+        I love playing chess and reading books in my spare time.a software engineer. I'm passionate about
         learning and building new things.
       </p>
     </div>
