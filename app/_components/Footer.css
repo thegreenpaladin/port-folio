@@ -2,7 +2,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
     position: absolute;
     bottom: 0;
     background-color: #f8f9fa;
@@ -15,4 +14,11 @@
     align-items: center;
     font-size: 14px;
     color: #495057;
+}
+
+.footer-column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
 }
