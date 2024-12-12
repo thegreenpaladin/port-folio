@@ -4,7 +4,10 @@ type Props = {}
 
 const ProjectsPage = (props: Props) => {
   return (
-    <div>ProjectsPage</div>
+    <>
+    <div>PhoneBook - C++</div>
+    <div>LUNA - FYP</div>
+    </>
   )
 }
 

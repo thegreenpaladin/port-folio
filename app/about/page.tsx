@@ -11,8 +11,8 @@ const AboutPage = (props: Props) => {
         I'm primarily a Software Engineer, but deep down, there is an artist inside of me.
       </p>
       <p>
-        I love playing chess and reading books in my spare time.a software engineer. I'm passionate about
-        learning and building new things.
+        I love playing chess and reading books in my spare time. As a software engineer, I'm passionate about
+        learning and building new tech, always.
       </p>
     </div>
   );
