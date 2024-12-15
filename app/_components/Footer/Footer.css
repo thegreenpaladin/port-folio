@@ -1,10 +1,6 @@
 .footer-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    bottom: 0;
-    background-color: #f8f9fa;
+    background-color: #13731d;
     border-top: 1px solid #e9ecef;
 }
 
